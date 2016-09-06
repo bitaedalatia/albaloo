@@ -1,0 +1,6 @@
+E:\Class!\sport\sport\bin\sport.dll.config
+E:\Class!\sport\sport\bin\sport.dll
+E:\Class!\sport\sport\bin\sport.pdb
+E:\Class!\sport\sport\obj\Debug\sport.csprojResolveAssemblyReference.cache
+E:\Class!\sport\sport\obj\Debug\sport.dll
+E:\Class!\sport\sport\obj\Debug\sport.pdb

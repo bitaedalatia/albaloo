@@ -1,0 +1,36 @@
+﻿/* News List
+   ========================================================================== */
+.news-list {
+    padding-right: 0px;
+    padding-top: 15px;
+}
+
+.news-item {
+    background-color: #eee;
+    font-size: 12px;
+    line-height: 19px;
+    color: #333;
+    list-style: none;
+    margin-bottom: 5px;
+    
+    overflow-wrap:break-word;
+}
+
+.news-item--time {
+    margin-right: 3px;
+    margin-left: 3px;
+    padding-right: 5px;
+    background-color: #fff;
+}
+
+.news-item--lead {
+    color: #333;
+}
+
+.news-item--lead > a :hover{
+    color:##858585 !important;
+}
+
+
+/* Folan Component style
+   ========================================================================== */
